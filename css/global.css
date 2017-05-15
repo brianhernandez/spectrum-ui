@@ -444,6 +444,10 @@ a.control:active {
 	background-color: #fcc;
 	border-color: #c99;
 }
+.success{
+    background-color: #cfc;
+    border-color: #9c9;
+}
 
 /* @end feedback */
 
