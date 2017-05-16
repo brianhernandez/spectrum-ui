@@ -307,6 +307,16 @@ input[type="submit"]:active {
 	background-image: linear-gradient(top,#800,#a00);
 	color: #fff;
 }
+.successButton {
+	background-color: #cfc;
+  border-color: #9c9;
+  color: #000;
+}
+.errorButton {
+	background-color: #fcc;
+  border-color: #c99;
+  color: #000;
+}
 
 /* @group search */
 
